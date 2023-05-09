@@ -1,0 +1,11 @@
+Documentation
+
+-Pressing play-
+By pressing play you can see the texture start scrolling, imitating water.
+
+-changing speed & direction-
+You can change the speed or direction of the texture scrolling by selecting your desired plane
+in the hierarchy then scrolling down to the water_animation script and changing the values of
+speedX (direction) or speedY (speed). 
+
+Thank you

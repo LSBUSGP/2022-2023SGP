@@ -1,0 +1,21 @@
+Documentation
+
+-Pressing play-
+By pressing play you can see the player running on a long endless plane. You can
+inspect the plane being infinitely generated as well as the last 2 planes
+behind the player de-spawning as they go out of view in the scene menu while
+the game is running.
+
+-changing speeds-
+You can change the speed at which the plane moves by going to 
+assets > prefabs > GroundTile and selecting the Automove script and changing
+the variable 'speed' in the inspector. I'd reccomend using minus values as the
+plane must move backwards of the players position to create the illustration of
+movement.
+
+I have not coded the ability for the player to move, the scene is only used to
+display the use of the infinite ground spawner script mechanics.
+
+Thank you
+
+

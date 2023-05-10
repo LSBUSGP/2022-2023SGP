@@ -1,0 +1,12 @@
+My project (1) contains 2 brief responses: FPS counter // Rolling road
+My project (3) contains 1 brief response: Speedometer
+
+In project (1), 'rolling road' Scene is the rolling road, 'Fps counter' scene is the fps counter
+
+In project (3), search for 'MainsScene', this is where the speedometer will work in and the doc is located in the same space. In a separate
+file called 'speedometer assets' or something similar, the speedometer script is located.
+
+I didn't rename or move many things after I was done because I was afraid of losing my work (i lost some already due to being unable
+to undo delete in Unity)
+
+-Rahul C

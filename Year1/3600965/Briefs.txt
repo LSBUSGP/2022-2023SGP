@@ -1,0 +1,5 @@
+Radar Brief: https://github.com/LSBUSGP/Briefs/blob/master/Radar.md
+
+Speedometer Brief: https://github.com/LSBUSGP/Briefs/blob/master/Speedometer.md
+
+FPS Counter Brief: https://github.com/LSBUSGP/Briefs/blob/master/InGameFPSCounter.md

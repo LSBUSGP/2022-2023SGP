@@ -1,0 +1,7 @@
+Edge Detection package requires the universal render pipeline package to be installed into the unity project to be used.
+This is the same for the Instanced scrolling material
+The Scoreboard requires a set of input in the unity editor, this is just the score data that needs to be sorted in order
+The Moving target package needs sprites on the bullet prefab, target, and Enemy objects
+
+
+
